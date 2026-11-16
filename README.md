@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, ich bin Meriem 👋
 
-<!--
-**meriem-jemai/meriem-jemai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich studiere Informatik im Master an der TU Dortmund, mit Fokus auf Machine Learning.
+Nebenbei arbeite ich als Werkstudentin bei Recogizer.
 
-Here are some ideas to get you started:
+In meiner Bachelorarbeit „Introspection in xLSTM: Insights into Memory and Gating Dynamics“
+habe ich mir angeschaut, wie xLSTM intern funktioniert, also wie das Modell Informationen
+speichert und über seine Gates steuert, was es behält und was es vergisst.
+xLSTM ist eine moderne Weiterentwicklung des klassischen LSTM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gerade beschäftige ich mich viel mit LLM-Agenten und RAG.
+
+📍 Dortmund 
