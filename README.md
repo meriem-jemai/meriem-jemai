@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Meriem&fontSize=55&fontColor=E0C3FC&fontAlignY=38&desc=exploring%20the%20universe%20of%20ML%20and%20LLMs&descAlignY=58&descSize=18&animation=twinkling" width="100%" />
 
 <p align="center">
-  <img src="asset/galaxy-card.svg" width="100%" />
+  <img src="asset/galaxy-card2.svg" width="100%" />
 </p>
 
 <p align="center">
