@@ -21,6 +21,7 @@
 
 <a href="https://github.com/meriem-jemai/Aero_request"><img src="asset/card-aero.svg" width="100%" /></a>
 <p align="center"><a href="https://meriem-jemai.github.io/Aero_request">▶ play it in your browser</a></p>
+<a href="https://github.com/meriem-jemai/my-langchain-course"><img src="asset/card-langchain.svg" width="100%" /></a>
 
 <p align="center"><img src="asset/divider.svg" width="100%" /></p>
 
