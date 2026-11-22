@@ -37,7 +37,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/xlstm-insights"><b>xlstm-insights</b></a> · my bachelor thesis on xLSTM
+  <a href="https://github.com/meriem-jemai/xlstm-insights"><b>xlstm-insights</b></a> · my bachelor thesis on xLSTM
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=100000&color=E0C3FC&center=true&vCenter=true&repeat=false&width=300&height=40&lines=CONTACT" />
+</p>
+
+<p align="center">
+  <a href="mailto:jemaimeriem100@gmail.com"><img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=C4B5FD" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meriem-jemai/meriem-jemai/output/github-snake-dark.svg" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=twinkling" width="100%" />
