@@ -19,6 +19,9 @@
 
 <a href="https://github.com/meriem-jemai/xlstm-insights"><img src="asset/card-xlstm.svg" width="100%" /></a>
 
+<a href="https://github.com/meriem-jemai/Aero_request"><img src="asset/card-aero.svg" width="100%" /></a>
+<p align="center"><a href="https://meriem-jemai.github.io/Aero_request">▶ play it in your browser</a></p>
+
 <p align="center"><img src="asset/divider.svg" width="100%" /></p>
 
 <p align="center">
